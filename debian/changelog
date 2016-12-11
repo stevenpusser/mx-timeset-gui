@@ -1,3 +1,15 @@
+mx-timeset-gui (16.12.2) mx; urgency=medium
+
+  * Fix the python script to display the current version in the "about" dialog.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sun, 11 Dec 2016 15:03:53 -0800
+
+mx-timeset-gui (16.12.1) mx; urgency=medium
+
+  * debian/control: conflict with and replace timeset-gui.
+
+ -- Steven Pusser <stevep@mxlinux.org>  Sat, 10 Dec 2016 19:57:18 -0800
+
 mx-timeset-gui (16.12) mx; urgency=medium
 
   * Fork to native MX package.

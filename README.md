@@ -1,2 +1,9 @@
-# mx-timeset-gui
-MX Timeset GUI, a Python GUI for setting system date and time. Forked from https://github.com/aadityabagga/timeset-gui
+A graphical interface written in python 2 for managing system date and time.
+
+#Dependencies-
+
+menu (for becoming root when running the application from system menu)
+
+ntp (for synchronising time from the network)
+
+python-gobject for the GUI

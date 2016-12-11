@@ -384,7 +384,7 @@ class MainWindow(Gtk.Window):
         aboutdialog = Gtk.AboutDialog()
         aboutdialog.set_logo_icon_name(Gtk.STOCK_ABOUT)
         aboutdialog.set_program_name("mx-timeset-gui")
-        aboutdialog.set_version("ver 16.12")
+        aboutdialog.set_version("ver 16.12.2")
         aboutdialog.set_comments(_("A GUI to manage system date and time"))
         aboutdialog.set_website_label("forked from timeset-gui https://github.com/aadityabagga/timeset-gui")
         aboutdialog.run()

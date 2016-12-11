@@ -1,10 +1,3 @@
-2.0 (Dec 2014)
-Add support for non-systemd systems.
+16.12.1 (10 Dec 2016) Package will conflict with and replace timeset-gui.
 
-2.1 (Dec 2014)
-Minor bugfix.
-
-2.2 (10 Jan 2014)
-Add support for translations (thx to Ayceman for the idea).
-Initially translated in French, German, Italian, and Spanish languages.
-About dialog added.
+16.12 (08 Dec 2016) Initial fork from timeset-gui.
